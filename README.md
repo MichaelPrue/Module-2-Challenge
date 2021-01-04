@@ -34,7 +34,7 @@
 
 -Advantages of refactoring this code is the efficiency (speed and memory), the ability to scale, and easier to manipulate if changes need to be made. That being said if this were to be the only application it may not have been worth the time to refactor it to save about .5 secs of time. The new code is also much easier to jump into. It has less moving parts so to speak. All in all I don't see much down to refactoring the code other than time and hassle it may take. 
 
--Depending on the comfortability with your code and if you have personal preference for Loops and If-then statements then the original code may be the way to go. If the end user has some knowledge of VBA but doesn't know how the tickerIndex works, then this gives the end users something more valuable for their skill level. To me it's more complicated after understanding the function of the tickerIndex that we created. The new code runs smoother with less memory even though it is hard to tell the difference now it will come in hand in the future if we decide to expand the amount of stocks we look at and the amount of data.
+-Depending on the comfortability with your code and if you have personal preference for Loops and If-then statements then the original code may be the way to go. If the end user has some knowledge of VBA but doesn't know how the tickerIndex works, then this gives the end users something easier to work with for their skill level. To me the orginal code is more complicated after understanding the function of the tickerIndex that we created. The new code runs smoother with less memory even though it is hard to tell the difference now it will come in handy for the future if we decide to expand the amount of stocks we look at and the amount of data.
 
 
 
