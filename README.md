@@ -16,7 +16,15 @@
        
         tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(J, 8).Value
 ```
-
+-In the old code this process would be done by looping through the below If-then statment
+```
+  '5a) Get total volumne for current ticker
+            If Cells(J, 1).Value = ticker Then
+    
+                totalVolume = totalVolume + Cells(J, 8).Value
+        
+            End If
+```
 
 
 ## Analysis and Challenges
