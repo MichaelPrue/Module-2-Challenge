@@ -11,7 +11,7 @@
 
 -Here is an example of how the tickerIndex we used within the code to help stream line output instead of using multiple If-then statments.
         -Increase volume for current ticker
-        >tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(J, 8).Value
+>tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(J, 8).Value
 
 
 
