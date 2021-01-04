@@ -6,6 +6,8 @@
 ### Results
 -As seen in the photos below,the first ones being from the old macro and the next ones being from the refracted code, there is a significant percentage decrease in he amonunt of time it takes to run. An added bonus is that it is less lines and more straight forward. The second code would be much easier to manipulate if needed to be changed. Accuracy is also key here and we recieved the same results with both codes.
 
+![2018 Old Results](Resources/VBA_Challenge_2018_Old.png)![2017 Old Results](Resources/VBA_Challenge_2017_Old.png)
+![2018 New Results](Resources/VBA_Challenge_2018.png)![2017 New Results](Resources/VBA_Challenge_2017.png)
 
 ## Analysis and Challenges
 
