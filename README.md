@@ -9,10 +9,11 @@
 ![2018 Old Results](Resources/VBA_Challenge_2018_Old.png)![2017 Old Results](Resources/VBA_Challenge_2017_Old.png)
 ![2018 New Results](Resources/VBA_Challenge_2018.png)![2017 New Results](Resources/VBA_Challenge_2017.png)
 
--Here is an example of how the tickerIndex we used within the code to help stream line output instead of using multiple If-then statments.
-        -Increase volume for current ticker
->tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(J, 8).Value
-
+-Here is an example of how the tickerIndex we used within the code to help stream line output instead of using multiple If-then statments. Here we are Increaseing volume for current ticker.
+        
+'''
+tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(J, 8).Value
+'''
 
 
 
