@@ -10,7 +10,7 @@
 ![2018 New Results](Resources/VBA_Challenge_2018.png)![2017 New Results](Resources/VBA_Challenge_2017.png)
 
 -Here is an example of how the tickerIndex we used within the code to help stream line output instead of using multiple If-then statments.
->3a) Increase volume for current ticker
+        -Increase volume for current ticker
         >tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(J, 8).Value
 
 
